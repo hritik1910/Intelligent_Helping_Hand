@@ -1,0 +1,21 @@
+# Sample SPI Inspection Procedure
+
+Document type: Fictional demonstration SOP
+
+## Purpose
+This procedure describes initial checks when an SPI solder-paste measurement is outside its expected range.
+
+## Initial checks
+1. Confirm that the correct PCB product and inspection recipe are selected.
+2. Review the SPI measurement report and identify the affected board and pad locations.
+3. Compare the measurements with the approved limits for the selected product.
+4. Check for visible stencil contamination or damage in accordance with the authorised work instruction.
+5. Verify the printer setup and process settings against the approved job recipe.
+
+## Escalation
+If the deviation repeats or remains outside the approved limits, follow the site's product-hold and escalation process and notify the responsible process engineer.
+
+Do not change approved inspection limits or machine settings without authorisation.
+
+## Document limitation
+This is a fictional learning document. It is not an OEM-approved work instruction and must not be used to operate real manufacturing equipment.

@@ -1,0 +1,13 @@
+
+# Python virtual environment
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Automatically generated Python files
+__pycache__/
+*.pyc
+
+# Saved machine-learning model files
+models/*.joblib
