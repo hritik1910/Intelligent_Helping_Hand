@@ -19,3 +19,6 @@ The project aims to simplify factory data analysis and technical knowledge retri
 
 ## 3. GenAI and RAG Testing
 The AI responses are evaluated by comparing analytical results with SQL/Python calculations and checking document-based answers against the original source material. Testing also includes questions with missing information to identify unsupported or inaccurate responses.
+
+
+## Ongoing Project
