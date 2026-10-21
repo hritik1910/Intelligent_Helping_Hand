@@ -15,6 +15,7 @@ Instead of writing SQL queries for every analysis or manually searching through 
 Manufacturing Data Analytics: Analyze structured production data using Python, Pandas, and MySQL.
 
 Natural-Language Interaction: Ask questions about manufacturing operations in plain English.
+GenAI-Powered Assistance: Use a large language model (LLM) to interpret questions and generate understandable responses.
 
 ## 2. Business Objectives
 The project aims to simplify factory data analysis and technical knowledge retrieval. It is designed to answer questions related to production trends, machine performance, unusual readings, and technical troubleshooting using available datasets and documentation.
