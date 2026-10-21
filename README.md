@@ -1,5 +1,14 @@
 ## 1. Project Overview
-The Manufacturing AI Project is an AI-powered analytics assistant that combines Python, MySQL, Generative AI, and Retrieval-Augmented Generation (RAG) to help users analyze manufacturing data and retrieve relevant information from technical documents and PDFs.
+
+**What problem does it solve?**
+
+Manufacturing facilities generate large volumes of production data, including machine performance records, operational parameters, production trends, and technical documentation. Analyzing this information manually can be time-consuming, and finding the right information across structured datasets and technical documents can be challenging.
+
+The Manufacturing AI Copilot aims to simplify this process by combining traditional data analytics with Generative AI and Retrieval-Augmented Generation (RAG).
+
+The project connects manufacturing data stored in a MySQL database with an AI-powered interface built using Streamlit. It is designed to help users explore production data, understand operational trends, and retrieve relevant information from technical documents using natural-language questions.
+
+Instead of writing SQL queries for every analysis or manually searching through lengthy PDF documents, users can interact with the application using everyday language.
 
 ## 2. Business Objectives
 The project aims to simplify factory data analysis and technical knowledge retrieval. It is designed to answer questions related to production trends, machine performance, unusual readings, and technical troubleshooting using available datasets and documentation.
