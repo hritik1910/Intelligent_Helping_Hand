@@ -12,7 +12,7 @@ Instead of writing SQL queries for every analysis or manually searching through 
 
 **Key Capabilities**
 
-Manufacturing Data Analytics: Analyze structured production data using Python, Pandas, and MySQL.
+🔹 Manufacturing Data Analytics: Analyze structured production data using Python, Pandas, and MySQL.
 
 Natural-Language Interaction: Ask questions about manufacturing operations in plain English.
 GenAI-Powered Assistance: Use a large language model (LLM) to interpret questions and generate understandable responses.
